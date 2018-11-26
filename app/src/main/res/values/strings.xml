@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">mBank</string>
+    <string name="login_button_text">შესვლა</string>
+    <string name="login_username">მომხმარებელი</string>
+    <string name="login_password">პაროლი</string>
+    <string name="clientname">სახელი:</string>
+    <string name="clientsurname">გვარი:</string>
+    <string name="clientgender">სქესი:</string>
+    <string name="clientbirtday">დაბადების თარიღი:</string>
+    <string name="clientcategory">კლიენტის კატეგორია:</string>
+    <string name="textview">TextView</string>
+    <string name="phone">ტელეფონი:</string>
+    <string name="address">მისამართი:</string>
+    <string name="mail">ელ-ფოსტა:</string>
+    <string name="assets">ანაბრები</string>
+    <string name="contentassest">ანაბრები:</string>
+    <string name="income">შემოსავალი</string>
+    <string name="outgoing">გასავალი</string>
+    <string name="today">დღეს</string>
+    <string name="company">ფრაგოლა</string>
+    <string name="pay">გადახდა</string>
+    <string name="amount">-3.00 ლარი</string>
+    <string name="yesterday">გუშინ</string>
+    <string name="valid_thru">valid thru</string>
+    <string name="_05_20">05/20</string>
+    <string name="xxxx_xxxx_xxxx_1234">XXXX XXXX XXXX </string>
+    <string name="solo">SOLO</string>
+    <string name="amex">AMEX</string>
+    <string name="gold">GOLD</string>
+    <string name="visa">VISA</string>
+</resources>
